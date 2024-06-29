@@ -36,3 +36,8 @@ Run each command in a separate CLI tab:
 npm run start:watch
 npm run webpack:watch
 ```
+
+The app will now be running on:
+```
+http://localhost:8080
+```
