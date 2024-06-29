@@ -1,0 +1,13 @@
+{
+  "eslint.options": {
+    "overrideConfigFile": "eslint.config.mjs"
+  },
+  "python.defaultInterpreterPath": "./.venv/bin/python",
+  "disableTsErrors.customizations": [
+    {
+      "code": [80001],
+      "severity": "off"
+    }
+  ],
+  "python.analysis.typeCheckingMode": "off"
+}
